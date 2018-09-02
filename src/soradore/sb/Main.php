@@ -36,10 +36,10 @@ class Main extends PluginBase implements Listener {
      *   [SetDisplayObjectivePacket]
      *   
      *    public $displaySlot;    ----   表示する場所(?)
-	 *    public $objectiveName;  ----   不明
-	 *    public $displayName;    ----   表示名
-	 *    public $criteriaName;   ----   不明
-	 *    public $sortOrder;      ----   不明
-	 *    
-	 */
+     *    public $objectiveName;  ----   不明
+     *    public $displayName;    ----   表示名
+     *    public $criteriaName;   ----   不明
+     *    public $sortOrder;      ----   不明
+     *    
+     */
 }
