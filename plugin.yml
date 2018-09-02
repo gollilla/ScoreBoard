@@ -1,0 +1,9 @@
+---
+name: sb
+author:  soradore
+version: 1.0
+api: 3.0.0ALPHA
+main: soradore\sb\Main
+commands: []
+permissions: []
+...
